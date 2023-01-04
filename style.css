@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.heading{
+  text-align: center;
+  border-bottom: 2px solid;
+}
+.container{
+  cursor: pointer;
+background-image: url('https://magic-8ball.com/wp-content/uploads/ball.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+width:40rem;
+margin:auto;
+height:40rem;
+}
+.form-control{
+    width: 25rem;
+    font-size: larger;
+    height: 2rem;
+    margin: auto;
+    display: block;
+
+}
